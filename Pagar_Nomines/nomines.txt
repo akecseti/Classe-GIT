@@ -1,0 +1,5 @@
+1 Esteve Informàtic 400 3
+2 Pepe Programador 3.5 40
+3 Andrei Informàtic 3.5 40
+2 Adrià Pepe 3.5 100
+3 Ivan Informàtic 3 40
