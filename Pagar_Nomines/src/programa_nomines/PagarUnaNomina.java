@@ -25,7 +25,8 @@ public class PagarUnaNomina {
 		Alumne_DUAL precari = new Alumne_DUAL();
 		precari.setPreuHora(1.5);
 		System.out.println(precari.quantitatAPagar(50));
-		System.out.println("Programa modificaggt!");
+		System.out.println("Programa modificat!");
+		System.out.println("hola?!");
 	}
 
 }
